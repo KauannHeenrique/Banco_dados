@@ -2,7 +2,7 @@
 
 ## Olá 👋
  
-*Aqui é onde postarei minhas atividades diárias de banco de dados realizadas no curso de desenvolvimento de sistemas. 
+*Aqui é onde postarei minhas atividades diárias de banco de dados realizadas no curso de desenvolvimento de sistemas.*
   
 Você pode baixar meu currículo em PDF [aqui](./Curriculo%20Kauann%202024.pdf).
 
